@@ -8,9 +8,9 @@ let array = [];
 }
 
 function johnLennonFacts(array){
-  let newArray = [];
+let newArray = [];
 let i = 0
-  while(array.length < i){
+  while(newArray.length < array.length ){
     newArray.push(array[i] + '!!!');
     i++;
   }
