@@ -6,3 +6,10 @@ let array = [];
   }
   return array;
 }
+
+function johnLennonFacts(array){
+
+  while(array.length < 0){
+    return array + '!!!';
+  }
+}
