@@ -6,8 +6,3 @@ function theBeatlesPlay(musicians,instruments){
   }
   return results;
 }
-'John Lennon plays Guitar, Paul McCartney plays Bass Guitar, George Harrison plays Lead Guitar
-, Ringo Starr plays Drums,
-
-'John Lennon plays Guitar', 'Paul McCartney plays Bass Guitar', 'George Har
-rison plays Lead Guitar', 'Ringo Starr plays Drums'
