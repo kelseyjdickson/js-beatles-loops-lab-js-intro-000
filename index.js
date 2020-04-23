@@ -8,8 +8,10 @@ let array = [];
 }
 
 function johnLennonFacts(array){
-
-  while(array.length < 0){
-    return array + '!!!';
+  let newArray = [];
+let i = 0
+  while(array.length < i){
+    newArray.push(array[i] + '!!!');
   }
+  return newArray;
 }
